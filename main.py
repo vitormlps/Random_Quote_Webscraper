@@ -1,12 +1,12 @@
-from magic_ball_webscrapper import Controller
+from magic_ball_webscraper import Controller
 from useless_coach import UselessCoach
 
 
 def main():
-    magic_ball_webscrapper = Controller()
+    magic_ball_webscraper = Controller()
     coach = UselessCoach()
 
-    quotes = magic_ball_webscrapper.exec_scrapping(magic_ball_webscrapper)
+    quotes = magic_ball_webscraper.exec_scrapping(magic_ball_webscraper)
 
     while True:
         coach.present_menu()
@@ -14,5 +14,5 @@ def main():
 
 
 if __name__ == "__main__":
-    print("Welcome to the Useless Coach's Magic '8 Ball' Webscrapper!")
+    print("Welcome to the Useless Coach's Magic '8 Ball' Webscraper!")
     main()
