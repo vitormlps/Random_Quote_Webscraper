@@ -1,4 +1,4 @@
-## Random_Quotes_Webscrapper
+## Random_Quotes_Webscraper
  Script Python para busca de citações em sites aleatórios encontrados através de pesquisa automática no Google.
 
 ### Requisitos
