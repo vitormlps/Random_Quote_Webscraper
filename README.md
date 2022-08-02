@@ -14,7 +14,7 @@
 ---
 
 ### Uso
- 1. Execute o 'main.py'.
+ 1. Execute o `main.py`.
  2. Pressione ENTER após a mensagem aparecer na tela.
  3. Repita quantas vezes quiser. :)
  
